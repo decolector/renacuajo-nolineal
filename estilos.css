@@ -1,0 +1,25 @@
+
+body{
+  font-size: 16px;
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+a{
+  border: 1px solid black;
+}
+
+.texto{
+  font-size: 1.6em;
+}
+
+nav ul{
+  list-style-type: none;
+  margin: 0 auto;
+  width: 50%;
+  text-align: center;
+}
+
+nav ul li{
+  display: inline-block;
+}
